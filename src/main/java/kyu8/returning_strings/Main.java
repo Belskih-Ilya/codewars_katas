@@ -1,4 +1,4 @@
-package returning_strings;
+package kyu8.returning_strings;
 
 public class Main {
     public static void main(String[] args) {

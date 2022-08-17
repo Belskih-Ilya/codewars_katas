@@ -1,4 +1,4 @@
-package find_the_odd_int;
+package kyu6.find_the_odd_int;
 
 public class Main {
 

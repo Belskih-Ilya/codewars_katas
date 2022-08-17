@@ -1,4 +1,4 @@
-package greed_is_good_kyu5;
+package kyu5.greed_is_good;
 
 public class Main {
     // Жадность — это игра в кости, в которую играют пятью шестигранными костями. Ваша миссия, если вы решите ее

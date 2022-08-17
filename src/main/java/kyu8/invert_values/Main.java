@@ -1,4 +1,4 @@
-package invert_values;
+package kyu8.invert_values;
 
 public class Main {
     public static void main(String[] args) {

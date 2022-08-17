@@ -1,4 +1,4 @@
-package find_next_perfect_square;
+package kyu7.find_next_perfect_square;
 
 import java.lang.management.MemoryType;
 

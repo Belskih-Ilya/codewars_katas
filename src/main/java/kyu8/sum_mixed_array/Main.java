@@ -1,4 +1,4 @@
-package sum_mixed_array;
+package kyu8.sum_mixed_array;
 
 import java.util.List;
 
